@@ -1,6 +1,6 @@
 # This is a test of the markdown language
 
-## Packing list
+Packing list
 * toothbrush
 * toothpaste
 * hair brush
@@ -10,6 +10,6 @@
 * jeans
 
 Homework Schedule for 1/29 - 2/4
-|S|M|T|W|R|F|S
-|||Transport II|IBE|Process Control|PChem||
-|||ChEG Lab|||||
+|S|   M   |   T   |   W   |   R   |   F   |S|
+| |       |TransII|  IBE  |Process| PChem | |
+| |       |ChEGLab|       |       |       | |
